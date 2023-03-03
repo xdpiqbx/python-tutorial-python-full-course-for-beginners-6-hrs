@@ -46,10 +46,10 @@ class Person:
         self.name = name
 
     def talk(self):
-        print("I am talking")
+        print(f"{self.name} talking")
+
 
 person = Person("John")
 print(person.talk())
 print(person.name)
 
-# https://youtu.be/_uQrJ0TkZlc?t=11616

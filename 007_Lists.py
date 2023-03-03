@@ -8,7 +8,7 @@ print(names[2:]) # ['Emmy', 'Bill', 'Sarah']
 
 # It works like Srtings
 
-# ----------------------------------------------- Exercise
+# ----------------------------------------------- Exercise Find max
 print("Exercise")
 numbers = [3, 6, 2, 15, 8, 4, 10]
 max = numbers[0]
