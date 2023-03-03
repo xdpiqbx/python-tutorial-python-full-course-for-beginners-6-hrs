@@ -33,3 +33,7 @@ course.title()
 course.find()
 course.replace()
 'course' in course
+
+# ----------------------------------------------- Split string
+string = "Hello world Python here"
+print(string.split(" "))
