@@ -33,4 +33,3 @@ hawk = Hawk("Hawk")
 print(rabbit.eat())
 # print(rabbit.sleep())
 # print(rabbit.run())
-

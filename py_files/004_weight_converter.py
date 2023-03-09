@@ -7,5 +7,3 @@ elif unit == 'K':
     print(f"You are {weight // 0.45} lbs")
 else:
     print(f"Unit [{unit}] is unacceptable")
-
-

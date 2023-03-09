@@ -59,4 +59,3 @@ print(f'Unpacking {x} {y} {z}')
 # ----------------------------------------------- Split string
 string = "Hello world Python here"
 print(string.split(" "))
-

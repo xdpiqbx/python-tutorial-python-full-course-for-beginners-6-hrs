@@ -17,4 +17,3 @@ print(abs(-2.9)) # 2.9
 
 math.ceil(x) # 3
 math.floor(x) # 2
-

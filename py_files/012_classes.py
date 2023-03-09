@@ -52,4 +52,3 @@ class Person:
 person = Person("John")
 print(person.talk())
 print(person.name)
-
